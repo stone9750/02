@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/panamericana.pe/picture?width=200&height=200" group-title="Perú" tvg-name="Panamericana",Panamericana
+https://cdnh71.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/d922a7e86589c2702871158b56eccfd1.png" group-title="Perú", tvg-name="ATV" ,ATV
+https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" group-title="Perú" tvg-name="TV Perú",TV Perú
+https://cdnh79.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5afo0xCN3is/XzxvmQIimeI/AAAAAAAA4qU/hXCSeRtNtD0ss4ihCIJ-92trFm3BYJhwQCK8BGAsYHg/s0/2020-08-18.jpg" group-title="Perú" tvg-name="Exitosa",Exitosa
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/web-willax-assets/files/image/7zRPxFe0yuYOY3whoVfPCARUxTcRekCHz4kawXsn.png" group-title="Perú" tvg-name="Willax",Willax
+https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmt4mVCOXkRs-1bjoQLaw0T1RnL76oHFx8FHRvIfJiyh3)/dm/3/x7x4dgx/s/live-0.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalipe/picture?width=200&height=200" group-title="Perú" tvg-name="Canal IPe",Canal IPe
+https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 tvg-id="496" tvg-name="Canal IPE" tvg-logo="https://ntv.pe/wp-content/uploads/2022/02/LogotipoNativa-e1644386908593.png", group-title="Perú" tvg-name="Nativa",Nativa
+https://mdstrm.com/live-stream-playlist/index_3.m3u8?&
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/d922a7e86589c2702871158b56eccfd1.png" group-title="Perú", tvg-name="ATV+" ,ATV+
+https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/large.ATVSUr.png.33e9a3a9b2a89d60bf03986867fb3884.png" group-title="Perú", tvg-name="ATV Sur" ,ATV Sur
+https://atvsur.mediatiquestream.com/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200" group-title="Perú" tvg-name="TV Perú Noticias",TV Perú Noticias
+https://cdnh79.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200" group-title="Int. América" tvg-name="TV Perú Noticias",TV Perú Noticias" group-title="Perú" tvg-name="TV Perú Internacional",TV Perú Internacional
+https://cdnh74.iblups.com/hls/irtp.m3u8
