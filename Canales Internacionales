@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="26" tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png" group-title="Argentina" tvg-name="TV Publica",TV Publica
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
+
+#EXTINF:-1 tvg-id="27" tvg-logo="https://i.paste.pics/6ea1efdaba3065291386bc1637fc488a.png" group-title="Argentina" tvg-name="Encuentro",Encuentro
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="28" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png" group-title="Argentina" tvg-name="Canal 26",Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="29" tvg-logo="https://i.paste.pics/a8990e8f3817f4ed5762495c1acd96d7.png" group-title="Argentina" tvg-name="La Nacion+",La Nacion+
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="30" tvg-logo="https://lh3.googleusercontent.com/-GggE-B4xtSM/XjtGaEx2_9I/AAAAAAAAvqA/r5bbq1zR7V4HHwTrWskHzdF7ddfuQjA-QCK8BGAsYHg/s0/2020-02-05.png" group-title="Argentina" tvg-name="Telemax",Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="31" tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png" group-title="Argentina" tvg-name="Canal 9 Litoral",Canal 9 Litoral
+https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="32" tvg-logo="https://lh3.googleusercontent.com/-k0l597JI_Nw/Xx4DpspmB4I/AAAAAAAA3gk/jb-EnvLp1GchlYJL90z6FLSXJe3ciwNRQCK8BGAsYHg/s0/2020-07-26.png" group-title="Argentina" tvg-name="Canal 13 San Luis",Canal 13 San Luis
+https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="33" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png" group-title="Argentina" tvg-name="Net TV",Net TV
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="34" tvg-logo="https://lh3.googleusercontent.com/-37Qp1y0Froc/YLwMLWKi5ZI/AAAAAAABCr8/VATYbRiDFL4hNT7IqD8DL3tC8Y8QeUCjgCJEEGAsYHg/s512/2021-06-05.png" group-title="Chile" tvg-name="Antofagasta TV",Antofagasta TV
+https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="35" tvg-logo="https://i2.paste.pics/44c5f4becc68ee877580eed639645110.png" group-title="Chile" tvg-name="Campo Abierto TV",Campo Abierto TV
+https://v1.tustreaming.cl:19360/campoabierto/campoabierto.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="36" tvg-logo="https://lh3.googleusercontent.com/-opZ6mP8G3Fo/Wn9lBEeoQ4I/AAAAAAAAgwY/cKvIaCeqHZEwdTQ-pJPh7oCDIU2q-fECwCK8BGAs/s220/2018-02-10.png" group-title="Chile" tvg-name="Canal 9 Bío Bí­o TV",Canal 9 Bío Bí­o TV
+https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="37" tvg-logo="https://lh3.googleusercontent.com/-lTPRVsTnfaY/XlMLxy_VhII/AAAAAAAAwZs/TNUiwtX3VEEFdP26RGGtfie-M7AI01XMgCK8BGAsYHg/s0/2020-02-23.png" group-title="Chile" tvg-name="Canal 13",Canal 13
+https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/adcd9179-3825-47c5-a5d0-a311376230df:TUL/variant/6111ad30657a583ad044dfe707c7e95d/bandwidth/2252800.m3u8
