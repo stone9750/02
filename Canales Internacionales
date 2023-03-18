@@ -35,3 +35,30 @@ https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="37" tvg-logo="https://lh3.googleusercontent.com/-lTPRVsTnfaY/XlMLxy_VhII/AAAAAAAAwZs/TNUiwtX3VEEFdP26RGGtfie-M7AI01XMgCK8BGAsYHg/s0/2020-02-23.png" group-title="Chile" tvg-name="Canal 13",Canal 13
 https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/adcd9179-3825-47c5-a5d0-a311376230df:TUL/variant/6111ad30657a583ad044dfe707c7e95d/bandwidth/2252800.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-logo="https://lh3.googleusercontent.com/-bo6o7DwVFAE/Xz8q7vB0FFI/AAAAAAAA4uA/mthLRxXk5IQGJ0bUv5NpLJfi-BFJWexLgCK8BGAsYHg/s0/2020-08-20.png" group-title="Ecuador" tvg-name="RTS",RTS
+https://d6op0qag07k4o.cloudfront.net/hls/rts_480.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="39" tvg-logo="https://lh3.googleusercontent.com/-Hd0_KsYNEKc/Xx2obYS2UTI/AAAAAAAA3d8/oJszUPsiegM3CCvZNZL7IU_VvYnObfctACK8BGAsYHg/s0/2020-07-26.png" group-title="España" tvg-name="La 1",La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="40" tvg-logo="https://lh3.googleusercontent.com/-TgqXXkxQpBQ/Xx2kfaSx-MI/AAAAAAAA3cg/CAK8Lu-eY-MYJQVhmdxH-Bz_h1NKMWhogCK8BGAsYHg/s0/2020-07-26.png" group-title="España" tvg-name="Canal 33 Madrid",Canal 33 Madrid
+https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="41" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="España" tvg-name="La 1",La 1
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+
+#EXTINF:-1 tvg-id="42" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="España" tvg-name="TRECE",TRECE
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="43" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="España" tvg-name="Euronews",Euronews
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" group-title="España" tvg-name="El País",El País
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+
+#EXTINF:-1 tvg-id="45" tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="Infantiles" tvg-name="Cartoon Network Latino",Cartoon Network Latino
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+
+#EXTINF:-1 tvg-id="46" tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="Infantiles" tvg-name="Cartoon Network Latino",Cartoon Network Latino
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
