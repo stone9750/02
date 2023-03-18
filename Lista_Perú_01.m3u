@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="1" tvg-logo="https://graph.facebook.com/panamericana.pe/picture?width=200&height=200" group-title="Perú" tvg-name="Panamericana",Panamericana
 https://cdnh71.iblups.com/hls/ptv2.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i2.paste.pics/d922a7e86589c2702871158b56eccfd1.png" group-title="Perú", tvg-name="ATV" ,ATV
+#EXTINF:-1 tvg-id="2" tvg-logo="https://i2.paste.pics/d922a7e86589c2702871158b56eccfd1.png" group-title="Perú" tvg-name="ATV" ,ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" group-title="Perú" tvg-name="TV Perú",TV Perú
@@ -16,22 +16,61 @@ https://cu.onliv3.com/livevd1/user2.m3u8?PlaylistM3UCL
 https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmt4mVCOXkRs-1bjoQLaw0T1RnL76oHFx8FHRvIfJiyh3)/dm/3/x7x4dgx/s/live-0.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://graph.facebook.com/canalipe/picture?width=200&height=200" group-title="Perú" tvg-name="Canal IPe",Canal IPe
-https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="7" tvg-name="Canal IPE" tvg-logo="https://ntv.pe/wp-content/uploads/2022/02/LogotipoNativa-e1644386908593.png", group-title="Perú" tvg-name="Nativa",Nativa
+#EXTINF:-1 tvg-id="7" tvg-logo="https://ntv.pe/wp-content/uploads/2022/02/LogotipoNativa-e1644386908593.png" group-title="Perú" tvg-name="Nativa",Nativa
 https://mdstrm.com/live-stream-playlist/index_3.m3u8?&
 
-#EXTINF:-1 tvg-id="8" tvg-logo="https://i2.paste.pics/d922a7e86589c2702871158b56eccfd1.png" group-title="Perú", tvg-name="ATV+" ,ATV+
+#EXTINF:-1 tvg-id="8" tvg-logo="https://i2.paste.pics/d922a7e86589c2702871158b56eccfd1.png" group-title="Perú" tvg-name="ATV+" ,ATV+
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/large.ATVSUr.png.33e9a3a9b2a89d60bf03986867fb3884.png" group-title="Perú", tvg-name="ATV Sur" ,ATV Sur
+#EXTINF:-1 tvg-id="9" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/large.ATVSUr.png.33e9a3a9b2a89d60bf03986867fb3884.png" group-title="Perú" tvg-name="ATV Sur" ,ATV Sur
 https://atvsur.mediatiquestream.com/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="10" tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200" group-title="Perú" tvg-name="TV Perú Noticias",TV Perú Noticias
-https://cdnh79.iblups.com/hls/R9WtilpKKB.m3u8
+https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="11" tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200" group-title="Perú" tvg-name="TV Perú Internacional",TV Perú Internacional
 https://cdnh74.iblups.com/hls/irtp.m3u8
 
-#EXTINF:-1 tvg-id="12" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/DirecTVSports2-2018.png/revision/latest?cb=20180320234741" tvg-name="DirecTV Sports" group-title="Perú" tvg-name="DirectTV Sports",DirecTV Sports
+#EXTINF:-1 tvg-id="12" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/DirecTVSports2-2018.png/revision/latest?cb=20180320234741" group-title="Perú" tvg-name="DirectTV Sports",DirecTV Sports
 https://cdn.cuevana3.ltd/dtvpl2.html?id=1061
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://i2.paste.pics/7787d1d2ab3382cc09d2c3fa9bb8720d.png" group-title="Perú" tvg-name="Contacto Deportivo",Contacto Deportivo
+https://live.obslivestream.com/cdeportivo/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="14" tvg-logo="https://lh3.googleusercontent.com/-LNqyThL23sA/Xzxu6qOCPqI/AAAAAAAA4qE/6jC3uKCToWUvQFFFL0pl-e9Qomh2LdxawCK8BGAsYHg/s0/2020-08-18.png" group-title="Perú" tvg-name="Best Cable Sports",Best Cable Sports
+https://ca2.inka.net.pe/bestcablesports/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="15" tvg-logo="https://lh3.googleusercontent.com/-ZJanuKXyOcE/XzxsUNGtJ_I/AAAAAAAA4pc/5GU3Dq6vXiEbaMuBLpf_vt_xGy7TSysMQCK8BGAsYHg/s0/2020-08-18.png" group-title="Perú" tvg-name="+ Cumbia",+ Cumbia
+https://ca2.inka.net.pe/mascumbiatvonline/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="16" tvg-logo="https://lh3.googleusercontent.com/-8cyoc0mjlnQ/Xxzwf_eZYkI/AAAAAAAA3bE/Fl3har_s5II86AuCsfK_FRQJz6dXMrK0gCK8BGAsYHg/s0/2020-07-25.png" group-title="Perú" tvg-name="BHTV",BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="17" tvg-logo="https://i2.paste.pics/6b2b101c818588d17c09562d3f96ce38.png" group-title="Perú" tvg-name="Canal 8 Catacaos",Canal 8 Catacaos
+https://tvdatta.com:3838/live/canalcatacaoslive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="18" tvg-logo="https://lh3.googleusercontent.com/-RYmmtKCcnsg/XoKDWBIosrI/AAAAAAAAxVM/VtTI9I3CvW4yG16vrFcn_DVaTi1QPAKGwCK8BGAsYHg/s0/2020-03-30.png" group-title="Perú" tvg-name="Central TV Chosica",Central TV Chosica
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="19" tvg-logo="https://lh3.googleusercontent.com/-LBfErrZhDc0/XxzwqzgjMeI/AAAAAAAA3bI/HllaPXeqeGcCJFcSxg64LMBpAGFJk5EEACK8BGAsYHg/s0/2020-07-25.png" group-title="Perú" tvg-name="Hechicera TV",Hechicera TV
+https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="20" tvg-logo="https://i2.paste.pics/13a1cbfd1b00f4e4582a523c9eb3d3b2.png" group-title="Perú" tvg-name="OK TeVe",OK TeVe
+https://stream.plixitv.live/oktv/oktv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="21" tvg-logo="https://i2.paste.pics/9a94e3b8faaaf217451d643eeff53340.png" group-title="Perú" tvg-name="Palmeras TV",Palmeras TV
+https://video.ingenioperu.com:3681/live/palmerastvlive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="22" tvg-logo="https://i2.paste.pics/35c791e364c3adb7c6c2ef98504041a0.png" group-title="Perú" tvg-name="Telecolor TV",Telecolor TV
+https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="23" tvg-logo="https://i2.paste.pics/e59013ac35938a2f9c304485f031f255.png" group-title="Perú" tvg-name="Uranio TV",Uranio TV
+https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="24" tvg-logo="https://i2.paste.pics/35046bd4f63cebcf522e4cd2981e262b.png" group-title="Perú" tvg-name="Via Alto Mayo TV",Via Alto Mayo TV
+https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="25" tvg-logo="https://i2.paste.pics/0ab595ad55ef233e5caa2fdb86b6bf9e.png" group-title="Perú" tvg-name="VZ TV",VZ TV
+https://live.obslivestream.com/vztv/index.m3u8?PlaylistM3UCL
